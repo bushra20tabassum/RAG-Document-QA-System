@@ -1,0 +1,19 @@
+NOVA UNIVERSITY KNOWLEDGE BASE
+
+ADMISSION
+Nova University offers BS Computer Science and BS Artificial Intelligence programs. Applicants must submit their academic transcripts and a completed application form through the official admission portal.
+
+FEES
+The application processing fee is PKR 2,000. The semester tuition fee is PKR 85,000. These are fictional sample fees for this project.
+
+SCHOLARSHIPS
+Students with excellent academic performance can apply for merit-based scholarships. Scholarship approval depends on eligibility requirements and university review.
+
+REGISTRATION
+Students can register by creating an account on the admission portal, completing the application form, uploading the required documents, and paying the application processing fee.
+
+CONTACT
+For admission assistance, students can email admissions@novauniversity.example.
+
+OPERATING HOURS
+The fictional admissions office operates Monday through Friday, from 9:00 AM to 4:00 PM.
